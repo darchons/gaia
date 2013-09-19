@@ -135,3 +135,4 @@ pref("general.useragent.override.sat.gob.mx", "\\(Mobile#(Android; Mobile"); // 
 pref("general.useragent.override.univision.com", "\\(Mobile#(Android; Mobile"); // bug 878649
 pref("general.useragent.override.redstarbelgrade.info", "\\(Mobile#(Android; Mobile"); // bug 878653
 pref("general.useragent.override.vesti-online.com", "\\(Mobile#(Android; Mobile"); // bug 878655
+pref("general.useragent.override.example.com", "\\(Mobile#(Android; Mobile"); // bug xxxxxx
